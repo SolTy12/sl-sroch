@@ -1,13 +1,13 @@
-# 🔗 FiveM Weapon Lanyard Script
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/89e551d7-77b3-47dc-a7b6-024845d1ffe3" /><img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/138d1abc-93bb-4d0d-9c39-6178126fb7f4" /># 🔗 FiveM Weapon Lanyard Script
 
 ![FiveM](https://img.shields.io/badge/FiveM-Script-orange?style=for-the-badge)
 ![Standalone](https://img.shields.io/badge/Standalone-Supported-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Free-lightgrey?style=for-the-badge)
 
-A realistic **Weapon Lanyard Script for FiveM** that simulates the safety lanyard used by law enforcement officers.
+A realistic **Pistol Sling Script for FiveM** that simulates the safety used by law enforcement officers.
 
-When a supported weapon is drawn, a **lanyard connects the weapon to the player's body**, adding extra realism and immersion to your roleplay server.
+When a supported weapon is drawn, a **Cable connects the weapon to the player's body**, adding extra realism and immersion to your roleplay server.
 
 The script is **lightweight, configurable, and compatible with both QBCore and Standalone servers.**
 
@@ -17,23 +17,14 @@ The script is **lightweight, configurable, and compatible with both QBCore and S
 
 - Works with **QBCore**
 - Fully functional in **Standalone mode**
-- Option to show the lanyard **only for police jobs**
-- Option to show the lanyard **for all players**
-- Configure **which weapons will use the lanyard**
+- Option to show the Sling **only for police jobs**
+- Option to show the Sling **for all players**
+- Configure **which weapons will use the Sling**
 - Simple and clean **config file**
 - Lightweight and optimized
 - Adds **extra realism** to RP servers
 
 ---
-
-# 📂 Download
-
-GitHub Repository:
-
-YOUR_GITHUB_LINK_HERE
-
----
-
 # ⚙️ Installation
 
 Follow these steps to install the script.
@@ -51,7 +42,7 @@ Place the script folder inside your server resources directory.
 Example:
 
 ```
-resources/[scripts]/weapon-lanyard
+resources/[scripts]/sl-sroch
 ```
 
 ---
@@ -61,7 +52,7 @@ resources/[scripts]/weapon-lanyard
 Add the following line to your **server.cfg**
 
 ```
-ensure weapon-lanyard
+ensure sl-sroch
 ```
 
 ---
@@ -80,43 +71,9 @@ All settings can be edited in:
 config.lua
 ```
 
----
-
-## Framework Selection
-
-Choose which framework your server uses.
-
-```
-Config.Framework = "qbcore"
-```
-
-or
-
-```
-Config.Framework = "standalone"
-```
-
----
-
-## Police Only Mode
-
-Enable the lanyard **only for police jobs**
-
-```
-Config.PoliceOnly = true
-```
-
-Allow the lanyard **for all players**
-
-```
-Config.PoliceOnly = false
-```
-
----
-
 ## Supported Weapons
 
-You can configure which weapons will use the lanyard.
+You can configure which weapons will use the sling.
 
 Example:
 
@@ -146,22 +103,21 @@ Perfect for:
 
 Add preview images here:
 
-![preview](images/preview1.png)
-![preview](images/preview2.png)
-![preview](images/preview3.png)
+![preview](https://cdn.discordapp.com/attachments/1479280684085411963/1480014955334996150/image.png?ex=69ae22d6&is=69acd156&hm=d742ee02e714b5e36949b8e528b2cb478cba1196308276957d4a75760d80be8b&)
+![preview](https://cdn.discordapp.com/attachments/1479280684085411963/1480014955926388856/image.png?ex=69ae22d6&is=69acd156&hm=0c07864b822111291c41e4c698865555e6cce92be838b57e91cee106902c5c67&)
 
 ### Video Preview
 
 Add your video here:
 
-https://your-video-link-here
+https://streamable.com/ucz0qb
 
 ---
 # 🛠 Support
 
 If you encounter bugs or want to suggest improvements:
 
-Open an **Issue on GitHub**
+Open an **Ticket** On https://discord.gg/PY9Vj8CrPf
 
 ---
 
@@ -169,4 +125,6 @@ Open an **Issue on GitHub**
 
 Created by
 
-**Sols Files**
+**Sols Files** https://discord.gg/PY9Vj8CrPf
+
+DO NOT RESELL OR CLAIM AS YOUERS 
