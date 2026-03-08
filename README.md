@@ -13,24 +13,6 @@ The script is **lightweight, configurable, and compatible with both QBCore and S
 
 ---
 
-# 📸 Preview
-
-### In-Game Preview
-
-Add preview images here:
-
-![preview](images/preview1.png)
-![preview](images/preview2.png)
-![preview](images/preview3.png)
-
-### Video Preview
-
-Add your video here:
-
-https://your-video-link-here
-
----
-
 # ✨ Features
 
 - Works with **QBCore**
@@ -158,7 +140,23 @@ Perfect for:
 - Servers looking to improve immersion
 
 ---
+# 📸 Preview
 
+### In-Game Preview
+
+Add preview images here:
+
+![preview](images/preview1.png)
+![preview](images/preview2.png)
+![preview](images/preview3.png)
+
+### Video Preview
+
+Add your video here:
+
+https://your-video-link-here
+
+---
 # 🛠 Support
 
 If you encounter bugs or want to suggest improvements:
