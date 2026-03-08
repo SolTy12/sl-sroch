@@ -99,14 +99,10 @@ Perfect for:
 
 ### In-Game Preview
 
-Add preview images here:
-
 ![preview](https://cdn.discordapp.com/attachments/1479280684085411963/1480014955334996150/image.png?ex=69ae22d6&is=69acd156&hm=d742ee02e714b5e36949b8e528b2cb478cba1196308276957d4a75760d80be8b&)
 ![preview](https://cdn.discordapp.com/attachments/1479280684085411963/1480014955926388856/image.png?ex=69ae22d6&is=69acd156&hm=0c07864b822111291c41e4c698865555e6cce92be838b57e91cee106902c5c67&)
 
 ### Video Preview
-
-Add your video here:
 
 https://streamable.com/ucz0qb
 
