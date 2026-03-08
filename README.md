@@ -1,5 +1,3 @@
-<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/89e551d7-77b3-47dc-a7b6-024845d1ffe3" /><img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/138d1abc-93bb-4d0d-9c39-6178126fb7f4" /># 🔗 FiveM Weapon Lanyard Script
-
 ![FiveM](https://img.shields.io/badge/FiveM-Script-orange?style=for-the-badge)
 ![Standalone](https://img.shields.io/badge/Standalone-Supported-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
